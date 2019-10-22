@@ -20,6 +20,17 @@
         <br/><br/>
         Roles:<security:authentication property="principal.authorities"/>
     </p>
+
+    <p>
+        <a href="${pageContext.request.contextPath}/leaders">Leadership meeting</a>
+    </p>
+
+    <security:authorize access="hasRole('ADMIN')">
+        <p>
+            <a href="${pageContext.request.contextPath}/systems">IT Systems meeting</a>
+        </p>
+    </security:authorize>
+
     <form:form action="${pageContext.request.contextPath}/logout" method="post">
         <input type="submit" value="Logout" />
     </form:form>
