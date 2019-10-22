@@ -7,10 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3592cb-c537-498e-b405-9ed6704f574c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdr/springmvc/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdr/springmvc/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdr/springmvc/config/SpringDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdr/springmvc/config/SpringDispatcherServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-Security.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-Security.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-Security/WEB-INF/classes/com/wdr/springmvc/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-Security/WEB-INF/classes/com/wdr/springmvc/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-Security/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-Security/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wdr/springmvc/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wdr/springmvc/config/SecurityConfig.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -254,7 +259,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571658755478</updated>
       <workItem from="1571658758102" duration="656000" />
-      <workItem from="1571715259213" duration="14829000" />
+      <workItem from="1571715259213" duration="18393000" />
     </task>
     <servers />
   </component>
